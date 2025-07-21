@@ -8,7 +8,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     /* align-items: start; */
-    place-items: center;
+    /* place-items: center; */
+    justify-content: center;
 
     /*
     grid-template-areas:
