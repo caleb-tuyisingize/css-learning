@@ -5,8 +5,9 @@
     gap: 6px;
     color: aliceblue;
     display: flex;
+    justify-content: space-evenly;
     /* flex-direction: column-reverse; */
-    flex-wrap: wrap-reverse;
+    /* flex-wrap: wrap-reverse; */
 
 }
 
