@@ -39,3 +39,8 @@
     width: 90px;
     background-color: black;
 }
+
+.container :nth-child(2){
+    color: red;
+    position: absolute;
+}
