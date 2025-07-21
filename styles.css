@@ -1,0 +1,24 @@
+.container{
+    background-color:brown;
+    width: 400px;
+    height: 340px;
+    gap: 6px;
+    color: aliceblue;
+    display: flex;
+
+}
+
+
+
+
+
+
+
+.container h1{
+    height: 40px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 90px;
+    background-color: black;
+}
