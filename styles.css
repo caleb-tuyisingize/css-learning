@@ -4,8 +4,10 @@
     height: 340px;
     gap: 6px;
     color: aliceblue;
-    display: flex;
-    justify-content: space-evenly;
+    /* display: flex; */
+    display: grid;
+    
+    /* justify-content: space-evenly; */
     /* flex-direction: column-reverse; */
     /* flex-wrap: wrap-reverse; */
 
