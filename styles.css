@@ -6,7 +6,15 @@
     color: aliceblue;
     /* display: flex; */
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    /*
+    grid-template-areas:
+     "header header header"
+     "Main Main . Sidebar"
+     "footer footer footer"
+;
+*/
+      /* grid-template-columns: repeat(3, 20px 1fr); */
     /* justify-content: space-evenly; */
     /* flex-direction: column-reverse; */
     /* flex-wrap: wrap-reverse; */
