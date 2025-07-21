@@ -4,8 +4,8 @@
     height: 340px;
     gap: 6px;
     color: aliceblue;
-    /* display: flex; */
-    flex-direction: row-reverse;
+    display: flex;
+    flex-direction: row;
 
 }
 
