@@ -42,5 +42,5 @@
 
 .container :nth-child(2){
     color: red;
-    position: revert;
+    position: unset;
 }
