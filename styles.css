@@ -10,6 +10,8 @@
     /* align-items: start; */
     /* place-items: center; */
     justify-content: space-around;
+    right:-50px ;
+    position: ;
 
     /*
     grid-template-areas:
@@ -42,5 +44,4 @@
 
 .container :nth-child(2){
     color: red;
-    position: unset;
 }
