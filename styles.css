@@ -11,7 +11,7 @@
     /* place-items: center; */
     justify-content: space-around;
     right:-50px ;
-    position: ;
+    position: fixed;
 
     /*
     grid-template-areas:
